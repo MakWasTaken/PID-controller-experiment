@@ -2,7 +2,7 @@ Summary:
 
 on/off controller has only two output conditions and switches abruptly between these two conditions. In a PID controller is responsible for ensuring that the process remains as close to the desired value as possible regardless of various disruptions, it determines how much and how quickly correction is applied by using varying amounts of the PID actions. The proportional block creates an output signal proportional to the magnitude of the error signal. The integral block creates an output proportional to the duration and magnitude of the error signal. The derivative block creates an output signal proportional to the rate of change of the error signal. Controller tuning involves correctly setting the controller P, I, and D values.
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 Temperature control:
 A house has a furnace that distributes heat throughout and a wall mounted controller called a thermostat
 Thermostat has a sensor tat measures the house temperature
