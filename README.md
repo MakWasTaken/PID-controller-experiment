@@ -51,3 +51,7 @@ Increasing the amount of setpoint change and repeating the procedure until the p
 Produces adequate results, but is often impractical
 autotuning 
 Pid controller learns how the process responds to a change in setpoint and suggested PID settings
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Credits to https://apmonitor.com/do/index.php/Main/NonlinearControl
